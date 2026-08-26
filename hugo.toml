@@ -3,3 +3,18 @@ languageCode = 'en-us'
 title = 'Secular Beginners Group'
 
 theme = 'hextra'
+
+[[menu.main]]
+  name = "Contact Us"
+  pageRef = "/contact"
+  weight = 2
+
+# [[menu.main]]
+#   name = "Blog"
+#   pageRef = "/blog"
+#   weight = 3
+
+# [[menu.main]]
+#   name = "Search"
+#   weight = 4
+#   params = { type = "search" }
