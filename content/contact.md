@@ -4,8 +4,6 @@ draft = false
 title = 'Contact Us'
 +++
 
-## Contact Us
-
 If you need to reach us between meetings, feel free to shoot us an email at [secularbeginnersgroup@gmail.com](mailto:secularbeginnersgroup@gmail.com).  
 
 If you do, your email will be treated as confidential and private, and only be used to respond to your message.
