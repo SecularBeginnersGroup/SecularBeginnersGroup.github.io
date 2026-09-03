@@ -10,9 +10,14 @@ theme = 'hextra'
   weight = 2
 
 [[menu.main]]
+  name = "Meeting Format"
+  pageRef = "/meeting_format"
+  weight = 3
+
+[[menu.main]]
   name = "Contact Us"
   pageRef = "/contact"
-  weight = 3
+  weight = 4
 
 # [[menu.main]]
 #   name = "Blog"
