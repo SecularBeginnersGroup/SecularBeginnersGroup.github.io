@@ -5,14 +5,19 @@ title = 'Secular Beginners Group'
 theme = 'hextra'
 
 [[menu.main]]
+  name = "Newcomer Packet"
+  pageRef = "/newcomer_packet"
+  weight = 2
+
+[[menu.main]]
   name = "Contact Us"
   pageRef = "/contact"
-  weight = 2
+  weight = 3
 
 # [[menu.main]]
 #   name = "Blog"
 #   pageRef = "/blog"
-#   weight = 3
+#   weight = 4
 
 # [[menu.main]]
 #   name = "Search"
